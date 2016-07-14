@@ -1,0 +1,5 @@
+app-dir: .
+disk: 2048
+memory: 256
+name: mini-challenge
+buildpack: https://github.com/cloudfoundry/nodejs-buildpack#v1.2.1
